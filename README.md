@@ -122,4 +122,4 @@ Periksa:
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
-Dibuat dengan ❤️ untuk keperluan belajar.
+
