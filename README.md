@@ -1,6 +1,20 @@
-# Sistem Login & Register PHP OOP
+# Praktikum 11, Pert 13 dan 14
+
+|                |                    |
+| ------------------ | ------------------ |
+|      _Nama_    | Dwi Okta Ramadhani |
+|      _NIM_     |      312410056     |
+|     _Kelas_    |      TI.24.A1      |
+|  _Mata Kuliah_ | Bahasa Pemrograman Web 1 |
 
 Aplikasi web sederhana dengan fitur autentikasi (login/register) menggunakan PHP OOP, MySQL, dan Bootstrap 5.
+
+<img width="1920" height="1128" alt="Cuplikan layar 2025-12-16 161925" src="https://github.com/user-attachments/assets/33ba77c6-57ec-4727-a7cd-750aa1c11bbe" />
+<img width="1920" height="1128" alt="Cuplikan layar 2025-12-16 162012" src="https://github.com/user-attachments/assets/fd7e69bc-c643-45d0-9cf1-5ced9cda80cd" />
+<img width="1920" height="1128" alt="Cuplikan layar 2025-12-16 162439" src="https://github.com/user-attachments/assets/539874e0-a303-4373-83e2-1faaaa918f1d" />
+
+
+
 
 ## Fitur
 
@@ -122,4 +136,5 @@ Periksa:
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
+
 
